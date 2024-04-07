@@ -5,6 +5,8 @@ mod systems {
 mod models {
     mod moves;
     mod position;
+    mod scores;
+    mod random;
 }
 
 mod tests {
